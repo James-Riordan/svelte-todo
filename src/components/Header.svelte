@@ -19,6 +19,6 @@
 </style>
 
 <div class="header">
-  <div>Dom's To-Do List</div>
+  <div>James' To-Do List</div>
   <span> {completedItemCount}/{itemCount} </span>
 </div>

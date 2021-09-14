@@ -1,3 +1,3 @@
-![](/public/favicon.png)
+![](/public/TodoSS.png)
 npm install
 npm run dev
